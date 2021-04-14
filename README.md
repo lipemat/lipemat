@@ -4,7 +4,7 @@
 
 I code a lot. I mean a lot, a lot. I'm actually probably coding right now. 🤷‍♂️ 
 
-Everything I've written was done with myself in mind. Vain I know, but software engineering is also my career and I work exclusively on enterprise level application. I'm thinking of myself and the future me who must maintain what I've written through the millions of page views every day. I obsess far more over performance and maintainablity than features which may or may not be needed. 
+Everything I've written was done with myself in mind. Vain I know, but software engineering is also my career and I work exclusively on enterprise level applications. I'm thinking of myself and the future me who must maintain what I've written through the millions of page views every day. I obsess far more over performance and maintainablity than features which may or may not be needed. 
 
 ### 🧰 My Daily Languages
 
