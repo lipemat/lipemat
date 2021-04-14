@@ -8,4 +8,4 @@ Everything I've written was done with myself in mind. Vain I know, but software 
 
 ### 🧰 My Daily Languages
 
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="25"> &nbsp; <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="25"> &nbsp; <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="25">
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="25"></a> &nbsp; <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="25"></a> &nbsp; <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="25"></a>
