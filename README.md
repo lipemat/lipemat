@@ -18,9 +18,3 @@ Everything I've written was done with myself in mind. Vain I know, but software 
 <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="20"></a> &nbsp;
 <a href="https://ant.design/"><img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" height="20"></a> &nbsp;
 <a href="https://github.com/lipemat?tab=repositories"><img src="https://onpointplugins.com/plugins/assets/company/logo-square.webp" height="20"></a></a> 
-
-### Dislaimer 📕
-
-I saw you roll your eyes 🙄 when you saw the <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" height="20"> logo. Don't worry, it's not what you think... If you gander through [my repos](https://github.com/lipemat?tab=repositories), you'll notice I maintain a ton of tools and configurations for WordPress as well as contribute to WordPress core. 
-
-Professionally, I make it possible for you to build websites which function far beyond what you would ever imagine could be done with WordPress. Honestly though, WordPress runs nearly half the internet so even if I was only a WordPress user would it be so bad...? 
