@@ -17,6 +17,6 @@ Everything I've written was done with myself in mind. Vain I know, but software 
  &nbsp; <a href="https://wordpress.org/"><img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" height="20"></a>&nbsp;
  <a href="https://svelte.dev/" target="_blank" rel="nofollow noreferrer"><img src="https://raw.githubusercontent.com/sveltejs/branding/refs/heads/master/svelte-logo.svg" height="20"></a></a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="nofollow noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="20"></a> &nbsp;
-<a href="https://ant.design/" target="_blank" rel="nofollow noreferrer"><img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" height="20"></a> &nbsp;
+<a href="https://ant.design/" target="_blank" rel="nofollow noreferrer"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" height="20"></a> &nbsp;
 <a href="https://github.com/lipemat?tab=repositories" target="_blank" rel="nofollow noreferrer"><img src="https://onpointplugins.com/plugins/assets/company/logo-square.webp" height="20"></a></a> 
  
