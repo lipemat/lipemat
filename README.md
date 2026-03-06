@@ -4,7 +4,13 @@
 
 I code a lot. I mean a lot, a lot. I'm actually probably coding right now. 🤷‍♂️ 
 
-Everything I've written was done with myself in mind. Vain I know, but software engineering is also my career and I work exclusively on enterprise level applications. I'm thinking of myself and the future me who must maintain what I've written through the millions of page views every day. I obsess far more over performance and maintainablity than features which may or may not be needed. 
+Tools are my passion, _or maybe obsession, I don't know the difference :-/_. No, I do not like your tools. Your tools have quirks and limitations which my tools do not. I'm not going to clutter up my code with a bunch of `//ignore` statements so I can use your tools. I will build the perfect tools which understand *all* of my code and provides helpful and relevant feedback. 
+
+No, I do not like your code: 
+* Your code fills my error logs with noise. My code handles billions of server requests a day with a clean error log.
+* Your code fills my browser console with noise. My browser console is free of warnings and errors.
+* Your code causes panicked off cycle releases. My code is so reliable it is boring.
+* Your code frequently requires maintence and breaks backwards compatibility. My code uses long term major versions to require minimal maintenance and allow predictable deprecations.
 
 ### My Daily Languages 🧰
 
